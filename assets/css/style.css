@@ -1,0 +1,27 @@
+
+
+.navbar
+{
+    background-color: #ae84a854 !important;
+}
+
+.load-more
+{
+    background-color: #ae84a8 !important;
+}
+.d-ingr
+{
+    font-size: 25px;
+    padding-right: 30px;
+}
+.d-title
+{
+    color: #ae84a8  ;
+}
+.back-but
+{ 
+    background-color: #ae84a8 !important;
+    top: 30px;
+    position: relative;
+    left: 30px;
+}
